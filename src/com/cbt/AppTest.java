@@ -6,5 +6,6 @@ public class AppTest {
 		System.out.println(name);
 		System.out.println("this is something");
 		System.out.println("this is second line");
+		System.out.println("after second change");
 	}
 }
